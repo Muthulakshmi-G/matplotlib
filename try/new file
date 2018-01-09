@@ -1,0 +1,7 @@
+print("hai do u want to excercise")
+exc=input(">")
+if exc=="1"
+    print("the  first day of yur exc")
+else:
+    print("the 2nd day of ur excercise")
+

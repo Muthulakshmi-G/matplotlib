@@ -1,0 +1,5 @@
+def max_number():
+    a=input(("the a is")int)
+    b=input(("the b is")int)
+    print ("the given 2 numbers are {} {}".format(a,b))
+
